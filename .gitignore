@@ -1,0 +1,41 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+
+# --- Virtual environments ---
+.venv/
+venv/
+ENV/
+*.conda
+*.ipynb_checkpoints/
+
+# --- Project artifacts ---
+faiss_index/
+uploads/
+cache/
+logs/
+
+# --- Environment & secrets ---
+.env
+*.env
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE configs ---
+.vscode/
+.idea/
+*.swp
+
+# --- Gradio cache & temp files ---
+.gradio/
+
+# Extra files
+src/model.py

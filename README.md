@@ -12,7 +12,7 @@
 
 ## 📖 Project Overview
 
-**AI Tutor (Nemo)** is an intelligent, interactive tutor built for **grade 10 science and technology students**.  
+**AI Tutor (Nemo)** is an intelligent, interactive tutor built for **science and technology students**.  
 It combines **Large Language Models (LLMs)** with **retrieval-augmented generation (RAG)** to answer questions both from:  
 
 - **💬 Direct questions** (general tutoring)  
@@ -21,7 +21,10 @@ It combines **Large Language Models (LLMs)** with **retrieval-augmented generati
 This system is designed to **simulate a personalized AI tutor**: patient, accurate, and adapted to the student’s level.  
 
 ---
+## 🎥 Demo Video
+https://github.com/user-attachments/assets/87b4eacf-5509-4cf5-afe1-36eec3fa2b2b
 
+---
 ## ⚡ Key Features
 
 - 🤖 **LLM-powered tutoring** using Google Generative AI (Gemini).  

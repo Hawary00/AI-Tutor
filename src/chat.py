@@ -2,7 +2,7 @@
 
 from langchain_core.messages import HumanMessage, AIMessage
 from .pdf_processor import process_pdf
-from .agent import langgraph_agent_executor, config, embeddings
+from .agents.agent import langgraph_agent_executor, config, embeddings
 import uuid
 
 # Per-user storage

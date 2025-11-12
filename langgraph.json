@@ -1,0 +1,10 @@
+{
+  "dockerfile_lines": [],
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./src/agents/agent.py:langgraph_agent_executor",
+    "summarizer_agent": "./src/agents/summarizer_agent.py:summarizer_agent"
+  },
+  "python_version": "3.11",
+  "env": ".env"
+}
